@@ -1,4 +1,4 @@
-### Hi there 👋 I am a programmer from NYU Courant cs master, and researching in State Key Laboratory of CAD&CG, Zhejiang University now.
+### Hi there 👋 I am a programmer from NYU Courant cs master, and researching in State Key Laboratory of CAD&CG, Zhejiang University before.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerManstein)](https://github.com/ProgrammerManstein/github-readme-stats)
 
 <!--
